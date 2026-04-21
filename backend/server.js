@@ -9,9 +9,6 @@ const app = express();
 app.use(cors());
 app.use(express.json({ limit: "1mb" }));
 
-const MONGO_URI =
-  process.env.MONGO_URI ||
-  "mongodb://bhushansakhare327_db_user:GRaziJStS1iniG2i@ac-mauufhu-shard-00-00.7pe36a8.mongodb.net:27017,ac-mauufhu-shard-00-01.7pe36a8.mongodb.net:27017,ac-mauufhu-shard-00-02.7pe36a8.mongodb.net:27017/sheetvision?ssl=true&replicaSet=atlas-frf1ej-shard-0&authSource=admin&appName=Cluster0";
 
 mongoose
   .connect(MONGO_URI)
