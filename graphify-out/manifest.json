@@ -1,0 +1,19 @@
+{
+  "backend\\server.js": 1776751403.2126107,
+  "backend\\models\\User.js": 1776749661.843865,
+  "backend\\routes\\auth.js": 1776751995.223733,
+  "frontend\\eslint.config.js": 1776746011.694824,
+  "frontend\\vite.config.js": 1776748806.965666,
+  "frontend\\src\\App.jsx": 1776749398.734237,
+  "frontend\\src\\main.jsx": 1776748051.046547,
+  "frontend\\src\\pages\\Home.jsx": 1776746379.346939,
+  "frontend\\src\\pages\\Landing.jsx": 1776749471.0023017,
+  "frontend\\src\\pages\\Login.jsx": 1776752114.7875912,
+  "frontend\\src\\pages\\Signup.jsx": 1776749854.6962924,
+  "frontend\\README.md": 1776746011.848703,
+  "frontend\\public\\favicon.svg": 1776746011.9607513,
+  "frontend\\public\\icons.svg": 1776746012.0108485,
+  "frontend\\src\\assets\\hero.png": 1776746011.8950572,
+  "frontend\\src\\assets\\react.svg": 1776746012.0580878,
+  "frontend\\src\\assets\\vite.svg": 1776746012.0973244
+}
